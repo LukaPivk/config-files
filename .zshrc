@@ -67,6 +67,7 @@ plugins=(
   git
   docker
   dnf
+  emoji
 )
 
 source $ZSH/oh-my-zsh.sh
